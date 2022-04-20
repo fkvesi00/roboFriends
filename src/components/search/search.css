@@ -1,7 +1,7 @@
-.ucitavanje{
-    margin: auto;
+.trazenje{
+    margin: 3px;
     border: 0ch;
+    height: 70px;
     display: flex;
     justify-content: center;
-    align-items: center;
 }
