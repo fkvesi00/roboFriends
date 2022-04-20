@@ -1,6 +1,6 @@
 {
-  "homepage": "https://fkvesi00.github.io",
   "name": "robo2",
+  "homepage": "https://fkvesi00.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,8 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
   }
 }
